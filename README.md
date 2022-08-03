@@ -3,6 +3,8 @@
     <img src="./assets/toggles.png">
 </div>
 
+<br><br>
+
 Today, we’ll go over how we can transform a regular checkbox input element to a responsive toggle switch. It’s not as hard as you may think and only involves CSS. No JavaScript. So let’s get into it!
 
 ## HTML Markup
