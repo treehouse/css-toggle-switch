@@ -39,42 +39,42 @@ Let’s go over this a bit so that we can understand what we’re doing here.
 `-webkit-apperance`
 > This is what removes the default look and feel of our input element when set to ‘none’. We use this so that we can see our custom stylings.
 
-<br><br>
+<br>
 
 `position`
 > relative – This is so that we can absolutely position the circle inside our toggle switch later.
 
-<br><br>
+<br>
 
 `width` & `height`
 > Gives us our toggle switches width and height.
 
-<br><br>
+<br>
 
 `border-radius`
 > This gives us 25px of border-radius on all four sides. Giving us a ‘pill-shaped’ container for our toggle switch.
 
-<br><br>
+<br>
 
 `background-color`
 > This sets the default background color for our toggle switch.
 
-<br><br>
+<br>
 
 `transition`
 > This gives a subtle change to the background-color when we click the toggle switch.
 
-<br><br>
+<br>
 
 `outline`
 > Optional, but removes the default outline given to input elements for accessibility.
 
-<br><br>
+<br>
 
 `cursor`
 > This just adds a pointer cursor when the user hovers over the toggle switch.
 
-<br><br>
+<br>
 
 Here’s what you should see so far:
 
